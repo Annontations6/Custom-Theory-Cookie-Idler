@@ -18,7 +18,7 @@ import { FontFamily } from "../api/ui/properties/FontFamily";
 //If you're wondering why the refund button doesn't appear, please refer to line 646 and you would know something's up
 
 var id = "CookieIdler";
-var name = "Cookie Idler";
+var name = "Cookiz Idler";
 var description =
     'An ungodly large mess and nonmathematical of a theory involving copious amounts of cookies, tau, and other stuffs (NOT grandmas). A BIG credits to Orteil for bringing such a legendary game idea to life, ellipsis for suggesting ideas for the UI, skyhigh173 for reformatting the code so it looks better; and spqcey(randomname#9373) for proofreading and fixing a majority of the text.\nThis "theory" contains: All Cookie Clicker Buildings, a looot of upgrades, a loot of achievements, no scary maths, [DATA EXPUNGED], not thousands of lines of raw text because I\'m too lazy to encrypt it, bad JS coding, and e150 tau!\nWARNING : In ALL Circumstances, DO NOT attempt to purchase level 4 of the cookie tin upgrade, doing so may crash your game INSTANTLY(hang in there until you can afford level 5)';
 var authors = "Sainen Lv.420 #2684";
@@ -668,7 +668,7 @@ var cookietB = [
     BF("6e175"),
 ];
 var cookietName = [
-	["Basic Macaron","Rose Macaron","Lemon Macaron","Chocolate Macaron","Pistachio Macaron","Hazelnut Macaron","Violet Macaron","Caramel Macaron","Licorice Macaron","Earl Grey Macaron"],["Butter Horseshoe","Butter Pucks","Butter Knots","Butter Swirls","One Million Square Inches Butter per Cookie","Slab of Pure Butter","French Pure Butter Cookie"],
+	["Basic Macarom","Rose Macaron","Lemon Macaron","Chocolate Macaron","Pistachio Macaron","Hazelnut Macaron","Violet Macaron","Caramel Macaron","Licorice Macaron","Earl Grey Macaron"],["Butter Horseshoe","Butter Pucks","Butter Knots","Butter Swirls","One Million Square Inches Butter per Cookie","Slab of Pure Butter","French Pure Butter Cookie"],
 	["Empire Biscuits","British Tea Biscuits","Chocolate British Tea Biscuits","Round British Tea Biscuits","Round Chocolate Tea Biscuits","Round British Tea Biscuits with Heart Motif","Round Chocolate British Tea Biscuits with Heart Motif","Big Ben Cookie"],
 	["Caramoas","Sagalogs","Shortfoils","Win Mints","Fig Gluttons","Loreols","Jaffa Cake","Grease\'s Cups","Digits","Lombardia Cookies","Bastenaken Cookies","Festivity Loops","Havabreaks","Zilla Wafers","Dim Dams","Pokey"],
 	["Cheesecake","Profiteroles","Panettone","Cinnamon Bun","Jelly Donut","Glazed Donut","Chocolate Cake","Pies","Croissant","Pain Au Chocolat","Focaccia","Taiyaki","Phyllo","Samarkand Bread"],
