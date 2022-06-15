@@ -207,7 +207,7 @@ let buildingName = [
     "Shipment",
     "Alchemy Lab",
     "Portal",
-    "Time Machine",
+    "Time Machineu",
     "Antimatter Condenser",
     "Prism",
     "Chancemaker",
